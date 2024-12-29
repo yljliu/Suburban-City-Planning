@@ -1,6 +1,7 @@
 # Suburban-City-Planning
 Suburban City Planning is a comprehensive C++ tool designed to assist urban planners in modeling suburban city layouts. This project utilizes a grid-based system to represent city structures, enabling users to visualize and optimize urban designs effectively. The primary goal is to provide an interactive and adaptable platform for creating efficient road networks and enhancing infrastructure connectivity.
-This tool addresses several challenges in suburban planning, such as:
+
+This tool gives the user several visual features including:
 
 Layout Optimization: Designing neighborhoods that balance residential, commercial, and industrial zones while maintaining connectivity.
 
@@ -8,7 +9,7 @@ Infrastructure Planning: Ensuring seamless integration of road networks to suppo
 
 Adaptability: Allowing users to experiment with different city configurations to evaluate the impact of planning decisions.
 
-By integrating advanced pathfinding algorithms, the simulation models efficient road networks that minimize travel time between various city zones. This project provides a foundational framework for urban planners to test hypotheses, analyze outcomes, and iterate on designs.
+By integrating advanced pathfinding algorithms, the simulation models efficient road networks that minimize travel time between various city zones. 
 
 Features:
 
